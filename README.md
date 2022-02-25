@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Thakkar</h1>
 <h3 align="center">A passionate MEAN Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Edge](https://www.innovatemr.com/)
+- 🔭 I’m currently working on [Edge](https://www.innovatemr.com/) [InnovateMR product](https://www.innovatemr.com/services/survey-programming/)
 
 - 🌱 I’m currently learning **Angular, MongoDB**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://tourmypage.blogspot.com/#portfolio](https://tourmypage.blogspot.com/#portfolio)
 
-- 💬 Ask me about **front end and design**
+- 💬 Ask me about **front end and Design**
 
 - 📫 How to reach me **https://tourmypage.blogspot.com/#contact**
 
